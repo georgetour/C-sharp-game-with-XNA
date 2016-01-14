@@ -1,0 +1,1 @@
+To use this with Visual Studio 2015 you need to download and install XNA.For 2015 download it from here https://mxa.codeplex.com/releases/view/618279.
